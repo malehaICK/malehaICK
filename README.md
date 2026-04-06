@@ -32,16 +32,16 @@ class MalehaIsratChowdhury:
     
     def __init__(self):
         self.role        = "ML Engineer"
-        self.education   = "MSc Computer Science @ Memorial University of Newfoundland"
+        self.education   = "MASc Computer Computer Engineering @ Memorial University of Newfoundland"
         self.location    = "Canada 🇨🇦 • Open to relocation & remote"
         self.research    = ["Fake News Detection", "Fraud Detection", "NLP"]
         self.publications = 2  # Springer Nature, peer-reviewed
         
     def what_drives_me(self):
         return """
-        I spent 3 years building ML systems that catch what humans miss —
+        I worked on ML projects such as
         fake news across 74,000+ articles, fraudulent hotel reviews,
-        financial anomalies. Two of those systems survived peer review
+        financial anomalies. Two of those systems survived research review
         and are published in Springer Nature.
         
         I'm not looking for a place to learn the basics —
@@ -91,7 +91,7 @@ Trained RF, SVM & Decision Tree on **1,600 reviews** — RF hit **87.19% accurac
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Academic Projects
 
 <table>
 <tr>
@@ -184,9 +184,8 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
-
+ 
 <!-- Snake animation eating your contributions! -->
 <p align="center">
   <picture>
@@ -195,46 +194,41 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
     <img alt="Snake animation" src="https://raw.githubusercontent.com/malehaICK/malehaICK/output/github-snake-dark.svg" />
   </picture>
 </p>
-
+ 
 > ⚠️ **Setup required:** To activate the snake animation, add [this GitHub Action workflow](#-snake-game-setup) to your profile repo.
-
+ 
 ---
-
+ 
 ## 📊 GitHub Stats
-
-<!-- Animated stats with activity graph -->
+ 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=malehaICK&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=38d9a9&text_color=c9d1d9" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malehaICK&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
-
+ 
+<!-- Streak stats — using streak-stats.demolab.com (most reliable host) -->
 <p align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=malehaICK&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=f97583&currStreakLabel=58a6ff" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=malehaICK&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=f97583&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </p>
-
-<!-- Activity graph -->
+ 
+<!-- Activity graph — using ashutosh00710's reliable instance -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=malehaICK&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=38d9a9&point=f97583&area=true&area_color=161b22" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=malehaICK&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=38d9a9&point=f97583&area=true&area_color=161b22" />
 </p>
-
-<!-- 3D Contribution calendar -->
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/malehaICK?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=50&theme=green" width="95%" alt="3D Contributions"/>
-</p>
-
+ 
 ---
-
+ 
 ## 🎮 Take a Break — Play Tic-Tac-Toe!
-
+ 
 <!-- Interactive game via GitHub issue comments -->
 Want some fun? Challenge yourself with a quick game right on my profile!
-
+ 
 [![Play Tic Tac Toe](https://img.shields.io/badge/🎮_Play_Tic--Tac--Toe-Click_Here!-58a6ff?style=for-the-badge&labelColor=0d1117)](https://playtictactoe.org/)
-
+ 
 ---
-
+ 
 ## 🌐 Let's Connect
-
+ 
 <p align="center">
   <a href="https://malehaisratchowdhury.netlify.app/#contact-web">
     <img src="https://img.shields.io/badge/🌐_Portfolio-malehaisratchowdhury.netlify.app-58a6ff?style=for-the-badge&labelColor=0d1117" />
@@ -246,57 +240,18 @@ Want some fun? Challenge yourself with a quick game right on my profile!
     <img src="https://img.shields.io/badge/Email-malehaickheya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
-
+ 
 ---
+ 
 
-<details>
-<summary><b>🐍 Snake Game Setup (Click to expand)</b></summary>
-
-### How to activate the contribution snake animation:
-
-1. Create a repo named `malehaICK` (same as your GitHub username) if you haven't already
-2. Create the file `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: malehaICK
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Actions** tab → **Generate Snake** → **Run workflow**
-4. The snake SVGs will be generated in the `output` branch automatically!
-
-</details>
-
+ 
 ---
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malehaICK&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
-
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 </p>
+ 
