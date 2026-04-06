@@ -7,11 +7,11 @@ I'm a Master's student in Computer Science at **Memorial University of Newfoundl
 
 ## About Me
 
-- 🎓 MSc Computer Science — Memorial University of Newfoundland, Canada
-- 🔍 Interested in **Machine Learning**, **Web Development**, and **Embedded Systems**
-- 🌱 Currently exploring advanced ML techniques and full-stack development
-- 💼 Open to research collaborations and internship opportunities
-- 📍 Based in Newfoundland, Canada
+- MSc Computer Science — Memorial University of Newfoundland, Canada
+- Interested in **Machine Learning**, **Web Development**, and **Embedded Systems**
+- Currently exploring advanced ML techniques and full-stack development
+- Open to research collaborations and internship opportunities
+- Based in Newfoundland, Canada
 
 ---
 
