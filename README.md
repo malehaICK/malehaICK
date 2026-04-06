@@ -1,5 +1,5 @@
 
-# Hi, I'm Maleha 👋
+# Hi, I'm Maleha
 
 I'm a Master's student in Computer Science at **Memorial University of Newfoundland**, passionate about building intelligent systems and solving real-world problems through data and code.
 
