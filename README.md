@@ -181,8 +181,9 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
- 
+
 <!-- Snake animation eating your contributions! -->
 <p align="center">
   <picture>
@@ -191,36 +192,33 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
     <img alt="Snake animation" src="https://raw.githubusercontent.com/malehaICK/malehaICK/output/github-snake-dark.svg" />
   </picture>
 </p>
- 
- 
+
 ---
- 
+
 ## 📊 GitHub Stats
- 
- 
+
 <!-- Streak stats — using streak-stats.demolab.com (most reliable host) -->
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=malehaICK&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=f97583&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </p>
- 
-<!-- Activity graph — using ashutosh00710's reliable instance -->
+
+<!-- Activity graph -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=malehaICK&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=38d9a9&point=f97583&area=true&area_color=161b22" />
 </p>
- 
+
 ---
- 
-## 🎮 Take a Break 
- 
-<!-- Interactive game via GitHub issue comments -->
-Want some fun? Challenge yourself Tic-Tac-Toe!
- 
-[![Play Tic Tac Toe](https://img.shields.io/badge/🎮_Play_Tic--Tac--Toe-Click_Here!-58a6ff?style=for-the-badge&labelColor=0d1117)](https://playtictactoe.org/)
- 
+
+## 🧠 Take a Break 
+
+Curious how neural networks learn? Play and Know!!
+
+[![Neural Network Playground](https://img.shields.io/badge/🧠_TensorFlow_Playground-Explore_Neural_Networks-FF6F00?style=for-the-badge&labelColor=0d1117)](https://playground.tensorflow.org)
+
 ---
- 
+
 ## 🌐 Let's Connect
- 
+
 <p align="center">
   <a href="https://malehaisratchowdhury.netlify.app/#contact-web">
     <img src="https://img.shields.io/badge/🌐_Portfolio-malehaisratchowdhury.netlify.app-58a6ff?style=for-the-badge&labelColor=0d1117" />
@@ -232,18 +230,9 @@ Want some fun? Challenge yourself Tic-Tac-Toe!
     <img src="https://img.shields.io/badge/Email-malehaickheya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
- 
----
- 
 
- 
 ---
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malehaICK&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
- 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
-</p>
- 
