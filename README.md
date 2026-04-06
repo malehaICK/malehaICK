@@ -4,12 +4,7 @@
 <h1 align="center">Maleha Israt Chowdhury</h1>
 <h3 align="center">ML Engineer • Fraud Detection • NLP & Deep Learning</h3>
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://malehaisratchowdhury.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%F0%9F%94%8D+I+build+ML+systems+that+catch+what+humans+miss.;%F0%9F%93%84+2+Springer+Nature+publications+%E2%80%A2+74%2C000%2B+articles+classified" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <!-- Quick badges -->
 <p align="center">
