@@ -1,31 +1,72 @@
-Copy
-
-# 💫 About Me:
-**Hi, I'm Maleha Israt Chowdhury** — an MSc Computer Science student at Memorial University of Newfoundland, Canada.
-
-Interested in **Machine Learning**, **Web Development**, and **Embedded Systems**
-
-Currently exploring advanced ML techniques and full-stack development
-
-Open to research collaborations and internship opportunities
-
-📍 Based in Newfoundland, Canada
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maleha-ick/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malehaickheya@gmail.com)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=malehaICK&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=malehaICK&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malehaICK&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=malehaICK&limit=5&theme=default&combine_all_yearly_contributions=true)
+<!-- Typing animation header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&width=435&lines=Hello%2C+world.+I'm+Maleha.;MSc+CS+%40+Memorial+University;ML+%7C+Web+Dev+%7C+Embedded+Systems;Open+to+research+%26+internships" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=malehaICK&icon=0&color=1)](https://visitcount.itsvg.in)
+
+> *"I build things that learn, connect, and solve — from ML classifiers to full-stack platforms."*
+
+---
+
+About
+
+I'm a graduate researcher at **Memorial University of Newfoundland** fascinated by the intersection of intelligent systems and real-world impact. My work ranges from detecting misinformation with NLP to building platforms that connect people with opportunities.
+
+Currently deepening my knowledge in advanced ML and full-stack development. Always open to collaborations that matter.
+
+- MSc Computer Science — Memorial University of Newfoundland, Canada
+- Research interests: Machine Learning, NLP, Embedded Systems
+- Currently exploring: Deep Learning, Full-Stack Development
+- Open to: Research collaborations & internships
+- Newfoundland, Canada
+
+---
+Projects
+
+| Project | What it does | Tech |
+|--------|-------------|------|
+| [**Junction**](https://github.com/malehaICK/Junction) | Job-matching platform connecting underserved communities with employment | Python |
+| [**Fake News Detector**](https://github.com/malehaICK/Machine-Learning-Project) | NLP-based ML classifier to flag misinformation | Python, Jupyter, scikit-learn |
+| [**Smart Parking System**](https://github.com/malehaICK/Micro-Controller-Project) | Fully automated car parking with security, built on microcontrollers | C/C++ |
+| [**Rent Anything**](https://github.com/malehaICK/Rent-anything) | Database-driven rental marketplace web app | PHP, MySQL |
+
+---
+
+## Skills
+
+**Languages**
+`Python` `C` `C++` `PHP` `HTML/CSS`
+
+**ML / Data**
+`PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas` `Matplotlib` `MLflow`
+
+**Web & Backend**
+`Django` `MySQL` `PostgreSQL` `MongoDB` `SQLite`
+
+**Tools & Cloud**
+`Git` `GitHub` `AWS` `Netlify`
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=malehaICK&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malehaICK&theme=github_dark&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=malehaICK&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maleha_Israt_Chowdhury-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maleha-ick/)
+[![Email](https://img.shields.io/badge/Email-malehaickheya@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malehaickheya@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malehaICK&style=flat&color=58a6ff&label=profile+views" />
+</p>
