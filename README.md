@@ -1,11 +1,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    MALEHA ISRAT CHOWDHURY — GitHub README              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!-- Animated header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Maleha%20Israt%20Chowdhury&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%E2%80%A2%20Fraud%20Detection%20%E2%80%A2%20NLP%20%26%20Deep%20Learning&descSize=16&descAlignY=55&descAlign=50" width="100%" />
-</p>
+<h1 align="center">Maleha Israt Chowdhury</h1>
+<h3 align="center">ML Engineer • Fraud Detection • NLP & Deep Learning</h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -24,7 +21,7 @@
 
 ---
 
-## `> whoami`
+## `> About`
 
 ```python
 class MalehaIsratChowdhury:
@@ -195,16 +192,11 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
   </picture>
 </p>
  
-> ⚠️ **Setup required:** To activate the snake animation, add [this GitHub Action workflow](#-snake-game-setup) to your profile repo.
  
 ---
  
 ## 📊 GitHub Stats
  
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=malehaICK&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=38d9a9&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malehaICK&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
  
 <!-- Streak stats — using streak-stats.demolab.com (most reliable host) -->
 <p align="center">
@@ -218,10 +210,10 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
  
 ---
  
-## 🎮 Take a Break — Play Tic-Tac-Toe!
+## 🎮 Take a Break 
  
 <!-- Interactive game via GitHub issue comments -->
-Want some fun? Challenge yourself with a quick game right on my profile!
+Want some fun? Challenge yourself Tic-Tac-Toe!
  
 [![Play Tic Tac Toe](https://img.shields.io/badge/🎮_Play_Tic--Tac--Toe-Click_Here!-58a6ff?style=for-the-badge&labelColor=0d1117)](https://playtictactoe.org/)
  
