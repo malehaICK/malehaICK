@@ -52,7 +52,7 @@ class MalehaIsratChowdhury:
 <tr>
 <td width="50%">
 
-### 🔬 Fake News Detection
+###  Fake News Detection
 **ICDMIS 2024 • Springer Nature**
 
 Built a **Hybrid Bi-LSTM** classifier on **74,428 articles** achieving **98.82% validation accuracy** — outperforming Logistic Regression & SVM baselines.
@@ -66,7 +66,7 @@ Built a **Hybrid Bi-LSTM** classifier on **74,428 articles** achieving **98.82% 
 </td>
 <td width="50%">
 
-### 🛡️ Deceptive Hotel Reviews
+###  Deceptive Hotel Reviews
 **Springer Nature • Jul 2024**
 
 Trained RF, SVM & Decision Tree on **1,600 reviews** — RF hit **87.19% accuracy**. Optimized for **recall over accuracy** because missing fraud costs more than a false alarm.
@@ -83,13 +83,13 @@ Trained RF, SVM & Decision Tree on **1,600 reviews** — RF hit **87.19% accurac
 
 ---
 
-## 🚀 Academic Projects
+##  Academic Projects
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🧠 House Price Prediction
+###  House Price Prediction
 **ML • Regression • 2025**
 
 Feature engineering reduced RMSE **more than model selection** — 80+ features, Ridge vs Linear Regression
@@ -99,7 +99,7 @@ Feature engineering reduced RMSE **more than model selection** — 80+ features,
 </td>
 <td width="33%" align="center">
 
-### 🤝 Junction
+### Junction
 **Django • Full-Stack • 2022**
 
 Job-matching platform connecting underserved communities with employment — auth, search, recruiter/applicant flows
@@ -109,7 +109,7 @@ Job-matching platform connecting underserved communities with employment — aut
 </td>
 <td width="33%" align="center">
 
-### 🅿️ Smart Parking
+### Smart Parking
 **Embedded C • IoT • 2022**
 
 Microcontroller system with IR sensors for real-time slot detection & LCD occupancy display
@@ -121,7 +121,7 @@ Microcontroller system with IR sensors for real-time slot detection & LCD occupa
 <tr>
 <td width="33%" align="center">
 
-### 🏠 Rent Anything
+### Rent Anything
 **PHP • MySQL • 2022**
 
 Database-driven rental marketplace with booking conflict detection
@@ -131,7 +131,7 @@ Database-driven rental marketplace with booking conflict detection
 </td>
 <td width="33%" align="center">
 
-### 🌿 Smart Garden
+### Smart Garden
 **Electronics • IoT • 2022**
 
 Automated plant monitoring with BJT circuits — moisture & light sensing triggers irrigation
@@ -177,7 +177,7 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <!-- Snake animation eating your contributions! -->
 <p align="center">
@@ -190,7 +190,7 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!-- Streak stats — using streak-stats.demolab.com (most reliable host) -->
 <p align="center">
@@ -204,7 +204,7 @@ Multi-subnet org network with VLANs and inter-VLAN routing in Packet Tracer
 
 ---
 
-## 🧠 Take a Break 
+##  Take a Break 
 
 Curious how neural networks learn? Play and Know!!
 
@@ -212,7 +212,7 @@ Curious how neural networks learn? Play and Know!!
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://malehaisratchowdhury.netlify.app/#contact-web">
