@@ -2,7 +2,7 @@
 <!--                    MALEHA ISRAT CHOWDHURY — GitHub README              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <h1 align="center">Maleha Israt Chowdhury</h1>
-<h3 align="center">ML Engineer • Fraud Detection • NLP & Deep Learning</h3>
+<h3 align="center">Aspiring ML Engineer| Machine Learning, NLP & Data Analytics | Python, SQL, TensorFlow, PyTorch</h3>
 
 
 
@@ -20,7 +20,7 @@
 
 ```python
 class MalehaIsratChowdhury:
-    """ML Engineer who builds systems that catch what humans miss."""
+    
     
     def __init__(self):
         self.role        = "ML Engineer"
