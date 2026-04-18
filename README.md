@@ -15,7 +15,7 @@
 
 I’ve worked across the full machine learning pipeline, from data cleaning and feature engineering to model evaluation and deployment using Django and REST APIs.
 
-## Featured Work
+## Published Research:
 - **Fake News Detection:** Built a hybrid pipeline combining Logistic Regression, SVM, and Bi-LSTM with transfer learning. After preprocessing and dataset tuning, Logistic Regression achieved the highest accuracy at 90.62%, showing the value of clean data over unnecessary model complexity.
 - **Deceptive Review Detection:** Trained Random Forest, SVM, and Decision Tree models on TF-IDF features using 1,600 balanced samples. Random Forest achieved 87.19% accuracy, with a focus on recall to reduce missed fraudulent cases.
 
