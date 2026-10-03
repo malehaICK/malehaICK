@@ -41,18 +41,6 @@ These experiences shaped how I approach machine learning: I prioritize data qual
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malehaICK/malehaICK/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malehaICK/malehaICK/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/malehaICK/malehaICK/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -67,10 +55,10 @@ These experiences shaped how I approach machine learning: I prioritize data qual
 
 ## Take a Break
 
-Having a Bad day ?? Let it go ..
 
-<p align="center">
-  <a href="https://havingbadday.netlify.app/"> Play
+
+<p align="center">Having a Bad day ?? ..
+  <a href="https://havingbadday.netlify.app/">  Let it go
   </a>
 </p>
 
