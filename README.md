@@ -3,11 +3,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <h1 align="center">Maleha Israt Chowdhury</h1>
-<p align="center">Data Scientist | Fraud Detection & NLP</p>
-
-<p align="center">
-  Based in Canada • Open to relocation & remote • 2 Springer-published papers
-</p>
 
 ---
 
