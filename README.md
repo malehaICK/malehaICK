@@ -36,7 +36,7 @@ These experiences shaped how I approach machine learning: I prioritize data qual
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=django,mysql,postgres,mongodb,sqlite,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=django,mysql,postgres,sqlite,git,github" />
 </p>
 
 ---
