@@ -67,11 +67,10 @@ These experiences shaped how I approach machine learning: I prioritize data qual
 
 ## Take a Break
 
-Curious how neural networks learn? Play and Know!!
+Having a Bad day ?? Let it go ..
 
 <p align="center">
-  <a href="https://playground.tensorflow.org">
-    <img src="https://img.shields.io/badge/TensorFlow_Playground-Explore_Neural_Networks-FF6F00?style=for-the-badge&labelColor=0d1117" />
+  <a href="https://havingbadday.netlify.app/">
   </a>
 </p>
 
