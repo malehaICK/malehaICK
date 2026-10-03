@@ -70,7 +70,7 @@ These experiences shaped how I approach machine learning: I prioritize data qual
 Having a Bad day ?? Let it go ..
 
 <p align="center">
-  <a href="https://havingbadday.netlify.app/">
+  <a href="https://havingbadday.netlify.app/"> Play
   </a>
 </p>
 
