@@ -13,13 +13,43 @@
 
 ## About Me
 
-I’ve worked across the full machine learning pipeline, from data cleaning and feature engineering to model evaluation and deployment using Django and REST APIs.
+I'm a **Machine Learning and Data Science practitioner** with a background in Computer Engineering and hands-on experience building machine learning solutions from **data preprocessing and feature engineering to model evaluation, API development, and deployment**.
 
-## Published Research:
-- **Fake News Detection:** Built a hybrid pipeline combining Logistic Regression, SVM, and Bi-LSTM with transfer learning. After preprocessing and dataset tuning, Logistic Regression achieved the highest accuracy at 90.62%, showing the value of clean data over unnecessary model complexity.
-- **Deceptive Review Detection:** Trained Random Forest, SVM, and Decision Tree models on TF-IDF features using 1,600 balanced samples. Random Forest achieved 87.19% accuracy, with a focus on recall to reduce missed fraudulent cases.
+My work has focused particularly on **NLP, fraud and deception detection, classification, and trustworthy AI systems**. I enjoy taking messy real-world data, turning it into meaningful features, comparing different modeling approaches, and building solutions that balance performance with practical usability.
 
-These experiences shaped how I approach machine learning: I prioritize data quality, align evaluation metrics with real-world costs, and choose the simplest effective model. I’m targeting full-time Data Science roles in fraud detection, NLP, or AI trust & safety, where models are deployed in production to solve real-world problems. I’m also deepening my work in generative AI and emerging areas of the field.
+### What I've Worked On
+
+- **Fake News Detection — Published Research**  
+  Developed a machine learning and deep learning pipeline using **Logistic Regression, SVM, Bi-LSTM, and transfer learning techniques**. After preprocessing and dataset optimization, **Logistic Regression achieved 90.62% accuracy**, reinforcing an important lesson from my work: better data and thoughtful experimentation can matter more than unnecessary model complexity.
+
+- **Deceptive Review Detection — Published Research**  
+  Built NLP classification models using **TF-IDF, Random Forest, SVM, and Decision Trees** on a balanced dataset of 1,600 reviews. The work emphasized not only accuracy but also **recall and the cost of missing fraudulent cases**, reflecting how model evaluation should connect to the real-world problem being solved.
+
+- **End-to-End Machine Learning Development**  
+  Worked across the full ML lifecycle, including **data cleaning, exploratory analysis, feature engineering, model training, evaluation, model comparison, and deployment using Django and REST APIs**.
+
+### How I Approach Machine Learning
+
+My projects have shaped three principles I bring to ML work:
+
+**Data quality first.**  
+A sophisticated model cannot compensate for poorly prepared data.
+
+**Metrics should reflect the problem.**  
+Accuracy alone is rarely enough. Precision, recall, false positives, and false negatives matter differently depending on the real-world application.
+
+**Use the simplest model that solves the problem well.**  
+I value interpretable and maintainable systems over complexity for its own sake.
+
+### What I'm Exploring Next
+
+I'm currently expanding my work into **Generative AI, Large Language Models, RAG, and modern NLP systems**, while continuing to strengthen my experience in production-oriented machine learning.
+
+I'm particularly interested in opportunities and projects involving:
+
+**Data Science · NLP · Fraud Detection · AI Trust & Safety · Machine Learning Engineering · Generative AI**
+
+My goal is to build AI systems that move beyond experiments and notebooks into **practical products that solve meaningful real-world problems**.
 
 ---
 
@@ -76,10 +106,4 @@ These experiences shaped how I approach machine learning: I prioritize data qual
   <a href="mailto:malehaickheya@gmail.com">
     <img src="https://img.shields.io/badge/Email-malehaickheya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malehaICK&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117" />
 </p>
